@@ -1,9 +1,13 @@
 ## Iris Dataset
 
 **Data Set Characteristics:** Multivariate
+
 **Number of Instances:** 150
+
 **Number of Attributes:** 4
+
 **Associated Tasks:** Classification
+
 **Missing Values?** No
 
 **Attribute Information:**
